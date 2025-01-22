@@ -1,0 +1,7 @@
+en:
+  users:
+    new:
+      title: 'Register to Pazii'
+      register: 'Register'
+    create:
+      welcome: "Welcome to Pazii, %{name}"

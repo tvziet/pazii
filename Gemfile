@@ -55,6 +55,8 @@ group :development do
   gem 'error_highlight', '>= 0.4.0', platforms: [ :ruby ]
 
   gem 'annotate', '~> 3.2'
+
+  gem 'i18n-debug', '~> 1.2'
 end
 
 group :test do
